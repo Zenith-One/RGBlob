@@ -1,0 +1,4 @@
+Slime sprite 
+- Made by Calciumtrice and downloaded from https://opengameart.org/content/animated-slime
+- licensed under CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+- I edited the yellow to instead be white.
